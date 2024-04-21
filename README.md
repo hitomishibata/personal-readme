@@ -1,15 +1,3 @@
-# Personal README Template
-
-Welcome to BUD's Personal README Template! Simply click "Use this template" above to create your own copy. You may want to read [this explanation](https://growwithbud.notion.site/README-Template-9d4c92efe88944a28a6d82aa33811b77) first.
-
-### Using your Personal README as a Website to Share
-
-1. Click "Use this template" above to create a copy in your Github space. For help with this see [here](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/creating-a-repository-from-a-template).
-2. Change the repository name to `personal-readme`.
-3. Edit the sections below to make it uniquely yours. Remember to delete everything inside the the `<details>` tags to remove the help tips.
-4. Go to Settings and scroll down to Github Pages then change the source to `master`. You can also set a new theme here.
-5. Visit `https://<your-github-username>.github.io/personal-readme` to see your work!
-
 ## Introduction
 
 
@@ -22,21 +10,22 @@ A little bit about you!
 
 
 </br><b>Cat or dog person?</b></br>
+Dog person but I love all kind of animals:)
 
 </br><b>Beach or mountain holiday?</b></br>
 
 </br><b>Night Owl or Early Riser?</b></br>
 
 </br><b>How many languages do you speak?</b></br>
-
+Three
 </br><b>Fun facts:</b>
 
 ## Personal Development
 ### What I value
-<details>
+I value different talents people have and passion to contribute to the society in different ways. I worked at various environments and met with many people from diverse backgrounds. I enjoyed getting to know them more and more everyday, discovering their strengthes and goals. Some talents are more noticible but others are hidden. I believe we enhance the quality of work if we are more open to discover different strengths and make use of them and encourage goal-oriented approach for everyday work.
     <summary>Tips</summary>
 What is important to you? What does being good at your job mean to you? What qualities in others do you appreciate?
-</details>
+Being good at my job means providing the best quality of work by utilizing my talents and applying different perspectives. I strive to go beyond clients' expectations instead of providing just-enough work. I highly appreciate openness, curiousity, and growth mindset in others.   
 
 ### My strengths
 <details>
