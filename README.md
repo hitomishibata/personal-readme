@@ -1,23 +1,21 @@
 ## Introduction
-
-
-<details>
-    <summary>Tips</summary>
-A little bit about you!
-</details>
+Hello all! I'm Hitomi. I'm from Osaka in Japan. I came to the Netherlands for the first time as an exchange student in 2019. Then I moved here in 2021 for study and work as I was impressed by how people exchange their opinions regardless of their age, gender, positions etc and how people care the environment.
+Fun Fact About Me: I just switched my career from Pedagogical Science to IT last October based on my huge passion toward data. In my previous job, I worked as a coordinator of a research community at a university in the Netherlands. Then, I completed an IT traineeship, especially focusing on data engineering and analytics this month. Now, I'm looking for a new challenge in which I can make use of my data and soft skills!
 
 ## Fast Facts
 
 
 </br><b>Cat or dog person?</b></br>
-Dog person but I love all kind of animals:)
+Dog person but I love all kinds of animals:)
 
 </br><b>Beach or mountain holiday?</b></br>
+Beach-- I prefer small and quiete beach and I can watch the water and sky forever:)
 
 </br><b>Night Owl or Early Riser?</b></br>
+Night Owl on weekends and holidays
 
 </br><b>How many languages do you speak?</b></br>
-Three
+Three: Japanese, English, and German(basic)
 </br><b>Fun facts:</b>
 
 ## Personal Development
@@ -28,13 +26,14 @@ What is important to you? What does being good at your job mean to you? What qua
 Being good at my job means providing the best quality of work by utilizing my talents and applying different perspectives. I strive to go beyond clients' expectations instead of providing just-enough work. I highly appreciate openness, curiousity, and growth mindset in others.   
 
 ### My strengths
-<details>
+- Including people making sure they feel comfortable.
+- Arranging plans and people to maximize the outcomes
+- Learning new things in a limited period
+- Making strategies and actions based on a clear goal
     <summary>Tips</summary>
-What do you love to do? What have others told you that you are good at? What can you help others with?
-</details>
 
 ### My growth areas
-<details>
+I am struggling to improve my leardership. 
     <summary>Tips</summary>
 What do others see that you don’t? What are you working on improving? What can others help you with?
 </details>
