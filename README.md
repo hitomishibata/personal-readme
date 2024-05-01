@@ -50,29 +50,29 @@ I enjoy collaborating with others and learn a lot from them. Nevertheless, I als
 ## Working With Me
 
 ### How I communicate
-    <summary>Tips</summary>
+
     Do you tend to communicate directly or indirectly? How do you prefer to be approached or stay in sync with others (Slack/email/video calls/phone calls)? When can others expect a response from you?
 I tend to communicate indirectly due to my culture. However, I can cope with direct communication as I appreciate straight-forward feedback.
 I prefer communicating via Slack to email. Having vide calls is always nice to discuss something.
 
 ### How I like to receive feedback
-    <summary>Tips</summary>
-How do you prefer to receive it (written/verbal/face-to-face)? When do you prefer to receive it (when it happens/our next meeting)?
+
+    How do you prefer to receive it (written/verbal/face-to-face)? When do you prefer to receive it (when it happens/our next meeting)?
 For codes, I prefer having written feedback when it happens so that I can learn the mistakes immideately. For the rest, it would be nice to have them in person.
 
 ### What gains and loses my trust
-    <summary>Tips</summary>
-What actions can a person take to gain your trust? Conversely, what triggers you to lose trust?
+    
+    What actions can a person take to gain your trust? Conversely, what triggers you to lose trust?
 Positive attitude for communication and asking helps.  
 
 ### How to help me
 
-What is the best way to approach you? What is the best way to convey information to you?
+    What is the best way to approach you? What is the best way to convey information to you?
 I appreciate if someone explanes me the details of the situations, experience next to technical information so that I can have more clear image how I can use techiniques efficiently.
 
 ### What people misunderstand about me
 
-What’s the cause of misunderstandings that you’ve had in the past? What behaviours of yours might unintentionally annoy a different personality type?
+    What’s the cause of misunderstandings that you’ve had in the past? What behaviours of yours might unintentionally annoy a different personality type?
 I try to solve problems by myself as much as I can so that I can learn many things. So if I don't ask many questions or helps, that means I'm trying to do it by myself first. 
 
 
