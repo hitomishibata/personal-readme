@@ -4,12 +4,11 @@ Fun Fact About Me: I just switched my career from Pedagogical Science to IT last
 
 ## Fast Facts
 
-
 </br><b>Cat or dog person?</b></br>
 Dog person but I love all kinds of animals:)
 
 </br><b>Beach or mountain holiday?</b></br>
-Beach-- I prefer small and quiete beach and I can watch the water and sky forever:)
+Beach-- I prefer small and quiete beach and I can read books there.
 
 </br><b>Night Owl or Early Riser?</b></br>
 Night Owl on weekends and holidays
@@ -30,26 +29,23 @@ Being good at my job means providing the best quality of work by utilizing my ta
 - Arranging plans and people to maximize the outcomes
 - Learning new things in a limited period
 - Making strategies and actions based on a clear goal
-    <summary>Tips</summary>
 
-### My growth areas
-I am struggling to improve my leardership. 
+### My growth areas 
     <summary>Tips</summary>
 What do others see that you don’t? What are you working on improving? What can others help you with?
-</details>
+I usually try to find the ways of collaboraton in which everyone feels comfortable and can optimize their talents. However, I still need to improve my leardership to excecute the ways efficiently.
 
 ### Working Style
-<details>
+
     <summary>Tips</summary>
 What motivates you? What helps you to be productive? Do you learn best by reading/writing/hearing/doing? Do you prefer to collaborate with others or work alone?
-</details>
-
+Having multiple tasks motivates me as I can apply my organization skills. If I can learn new things in those tasks, that motivates me even more.
+I enjoy collaborating with others and learn a lot from them. Nevertheless, I also appreciate working alone as I like solving problems by myself.
+    
 ### What are 3 things that you are proud of?
-<details>
-    <summary>Thing 1</summary>
-    <summary>Thing 2</summary>
-    <summary>Thing 3</summary>
-</details>
+- openness to accept differences
+- adaptability to new environments
+- resiliency for never giving up
 
 
 ## Working With Me
@@ -58,43 +54,49 @@ What motivates you? What helps you to be productive? Do you learn best by readin
 <details>
     <summary>Tips</summary>
     Do you tend to communicate directly or indirectly? How do you prefer to be approached or stay in sync with others (Slack/email/video calls/phone calls)? When can others expect a response from you?
-</details>
+I tend to communicate indirectly due to my culture. However, I can cope with direct communication as I appreciate straight-forward feedback.
+I prefer communicating via Slack to email. Having vide calls is always nice to discuss something.
 
 ### How I like to receive feedback
-<details>
     <summary>Tips</summary>
 How do you prefer to receive it (written/verbal/face-to-face)? When do you prefer to receive it (when it happens/our next meeting)?
-</details>
+For codes, I prefer having written feedback when it happens so that I can learn the mistakes immideately. For the rest, it would be nice to have them in person.
 
 ### What gains and loses my trust
-<details>
     <summary>Tips</summary>
 What actions can a person take to gain your trust? Conversely, what triggers you to lose trust?
-</details>
+Positive attitude for communication and asking helps.  
 
 ### How to help me
-<details>
     <summary>Tips</summary>
 What is the best way to approach you? What is the best way to convey information to you?
-</details>
+I appreciate if someone explanes me the details of the situations, experience next to technical information so that I can have more clear image how I can use techiniques efficiently.
 
 ### What people misunderstand about me
-<details>
+
     <summary>Tips</summary>
 What’s the cause of misunderstandings that you’ve had in the past? What behaviours of yours might unintentionally annoy a different personality type?
-</details>
+I try to solve problems by myself as much as I can so that I can learn many things. So if I don't ask many questions or helps, that means I'm trying to do it by myself first. 
 
 
 ## SheSharp Mentorship Program Goals & Expectations
 ### My goal for this program
-<details>
+
     <summary>Tips</summary> 
     What are you hoping to achieve in the next 12 weeks?
-</details>
+- Improving my programming skills, especially focusing on data engineering tasks.
+- Understanding real data engineering tasks and being able to make decisions in process, tools, time table, etc.
+- Applying effective ways of collaboration in tasks.
+
 
 ### My expectations of my BUD (mentor/mentee)
+- Filling me contexutal information in addition to technical knowledge.
+- Having fun together through our sessions:)
 
 
 ### What you can expect of me
+- High motivation to lean new things
+- Positive attitude for challenges
+- Adopt different perspectives
 
 
