@@ -68,13 +68,12 @@ What actions can a person take to gain your trust? Conversely, what triggers you
 Positive attitude for communication and asking helps.  
 
 ### How to help me
-    <summary>Tips</summary>
+
 What is the best way to approach you? What is the best way to convey information to you?
 I appreciate if someone explanes me the details of the situations, experience next to technical information so that I can have more clear image how I can use techiniques efficiently.
 
 ### What people misunderstand about me
 
-    <summary>Tips</summary>
 What’s the cause of misunderstandings that you’ve had in the past? What behaviours of yours might unintentionally annoy a different personality type?
 I try to solve problems by myself as much as I can so that I can learn many things. So if I don't ask many questions or helps, that means I'm trying to do it by myself first. 
 
@@ -82,7 +81,6 @@ I try to solve problems by myself as much as I can so that I can learn many thin
 ## SheSharp Mentorship Program Goals & Expectations
 ### My goal for this program
 
-    <summary>Tips</summary> 
     What are you hoping to achieve in the next 12 weeks?
 - Improving my programming skills, especially focusing on data engineering tasks.
 - Understanding real data engineering tasks and being able to make decisions in process, tools, time table, etc.
