@@ -31,13 +31,12 @@ Being good at my job means providing the best quality of work by utilizing my ta
 - Making strategies and actions based on a clear goal
 
 ### My growth areas 
-    <summary>Tips</summary>
+
 What do others see that you don’t? What are you working on improving? What can others help you with?
 I usually try to find the ways of collaboraton in which everyone feels comfortable and can optimize their talents. However, I still need to improve my leardership to excecute the ways efficiently.
 
 ### Working Style
 
-    <summary>Tips</summary>
 What motivates you? What helps you to be productive? Do you learn best by reading/writing/hearing/doing? Do you prefer to collaborate with others or work alone?
 Having multiple tasks motivates me as I can apply my organization skills. If I can learn new things in those tasks, that motivates me even more.
 I enjoy collaborating with others and learn a lot from them. Nevertheless, I also appreciate working alone as I like solving problems by myself.
@@ -51,7 +50,6 @@ I enjoy collaborating with others and learn a lot from them. Nevertheless, I als
 ## Working With Me
 
 ### How I communicate
-<details>
     <summary>Tips</summary>
     Do you tend to communicate directly or indirectly? How do you prefer to be approached or stay in sync with others (Slack/email/video calls/phone calls)? When can others expect a response from you?
 I tend to communicate indirectly due to my culture. However, I can cope with direct communication as I appreciate straight-forward feedback.
